@@ -8,3 +8,5 @@ The timeslots are also color coordinated to help you keep track of the time and 
 YOu can visit the webpage through the following link: https://bhyland95.github.io/calendar-planner/
 
 Here is a screenshot of the webpage:
+<img width="640" alt="Capture" src="https://user-images.githubusercontent.com/84405590/130679918-c36e307f-59b3-45f7-a8d7-c75d3a4f6f37.PNG">
+
